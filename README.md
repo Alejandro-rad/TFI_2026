@@ -10,7 +10,7 @@ Tecnicatura Universitaria en Telecomunicaciones
 Programación
 
 ## Programa Utilizado
-PseInt y Google Colaborator
+PseInt y Google Colaboratory
 
 ## Descripción
 Programas creados con algoritmos que cumplen con las especificaciones de cada consigna.
